@@ -6,4 +6,4 @@ Follow this project at: https://hackaday.io/project/198394-sao-adapter-for-voja4
 
 Hardware Version 1.0 DRAFT
 
-<img src="Images/SAO VOJA4 ADAPTER V1 Render Front" height="250">
+<img src="Images/SAO VOJA4 ADAPTER V1 Render Front.png" height="250">
