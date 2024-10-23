@@ -12743,19 +12743,6 @@
 		)
 		(uuid "382f91e6-e3ae-44cc-b7e1-93114eee11fe")
 	)
-	(text "Draft 10/21/2024\n2200 CDT"
-		(exclude_from_sim no)
-		(at 243.586 181.61 0)
-		(effects
-			(font
-				(size 3 3)
-				(thickness 0.6)
-				(bold yes)
-				(color 255 13 6 1)
-			)
-		)
-		(uuid "3a8e0e1e-a367-4565-b26a-fb6650078f0d")
-	)
 	(text "3V3 REGULATOR"
 		(exclude_from_sim no)
 		(at 112.776 164.338 0)
