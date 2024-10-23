@@ -1,4 +1,4 @@
-24633962008322197
+24635691665266714
 Andy_Footprint_Library
 4960_ADA_REV_RGB_LED
 
@@ -440,6 +440,13 @@ Through hole socket strip THT 1x11 2.54mm single row
 0
 11
 11
+Andy_Footprint_Library
+PinSocket_1x12_P2.54mm_Horizontal_Overhang
+Through hole angled socket strip, 1x12, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
+Through hole angled socket strip THT 1x12 2.54mm single row
+0
+12
+12
 Andy_Footprint_Library
 PinSocket_1x30_P2.54mm_Vertical
 Through hole straight socket strip, 1x30, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
