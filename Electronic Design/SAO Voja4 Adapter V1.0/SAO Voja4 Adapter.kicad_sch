@@ -14212,6 +14212,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "MMBT4401LT1G"
+			(at 66.04 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1ba200e3-e10f-498b-b926-7a77b6053041")
 		)
@@ -14417,6 +14426,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x12, script generated"
+			(at 53.34 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Sullins"
+			(at 53.34 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PPTC121LGBN-RC"
 			(at 53.34 144.78 0)
 			(effects
 				(font
@@ -14831,7 +14858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SGM2007-3.3XN5/TR"
+		(property "Manufacturer_Part_Number" "TLV75533PDBVR"
 			(at 135.89 187.96 0)
 			(effects
 				(font
@@ -14900,6 +14927,15 @@
 			)
 		)
 		(property "Populate" "yes"
+			(at 114.3 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TI"
 			(at 114.3 177.8 0)
 			(effects
 				(font
@@ -15213,6 +15249,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "KOA SPEER"
+			(at 104.14 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RK73H2ATTD3301F"
+			(at 104.14 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2bf16d6e-949d-40c6-8f3f-cc4b4cad108a")
 		)
@@ -15381,6 +15435,24 @@
 			)
 		)
 		(property "Populate" "yes"
+			(at 104.14 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 104.14 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL21B105KAFNNNE"
 			(at 104.14 187.96 0)
 			(effects
 				(font
@@ -15988,6 +16060,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "KOA SPEER"
+			(at 104.14 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RK73H2ATTD3301F"
+			(at 104.14 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8c97340f-2702-4e5f-9d9b-29c4cf56e661")
 		)
@@ -16091,6 +16181,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "KOA SPEER"
+			(at 54.61 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RK73H2ATTD4700F"
+			(at 54.61 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "27fe0794-8099-40a4-a2dc-9ea3b56871a4")
 		)
@@ -16186,6 +16294,24 @@
 			)
 		)
 		(property "Populate" "yes"
+			(at 54.61 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "KOA SPEER"
+			(at 54.61 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RK73H2ATTD4700F"
 			(at 54.61 100.33 0)
 			(effects
 				(font
@@ -16392,6 +16518,15 @@
 			)
 		)
 		(property "Populate" "yes"
+			(at 101.6 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MMBT4401LT1G"
 			(at 101.6 66.04 0)
 			(effects
 				(font
@@ -16660,6 +16795,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Sullins"
+			(at 176.53 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SFH11-NBPC-D03-ST-BK"
+			(at 176.53 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f5981d5d-7426-4a9e-a4d2-ed1c167c2289")
 		)
@@ -16870,6 +17023,15 @@
 			)
 		)
 		(property "Populate" "yes"
+			(at 66.04 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MMBT4401LT1G"
 			(at 66.04 100.33 0)
 			(effects
 				(font
@@ -17090,6 +17252,24 @@
 			)
 		)
 		(property "Populate" "yes"
+			(at 142.24 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 142.24 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL21B103KBANNNC"
 			(at 142.24 187.96 0)
 			(effects
 				(font
@@ -17369,6 +17549,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "MMBT4401LT1G"
+			(at 101.6 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8372072b-6d1d-4482-8658-7b9ed324cf16")
 		)
@@ -17546,6 +17735,24 @@
 			)
 		)
 		(property "Populate" "yes"
+			(at 68.58 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "KOA SPEER"
+			(at 68.58 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RK73H2ATTD3301F"
 			(at 68.58 52.07 0)
 			(effects
 				(font
@@ -18721,6 +18928,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "SM04B-SRSS-TB"
+			(at 255.27 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e5896687-e03b-4c10-96e7-87a6fac10052")
 		)
@@ -18830,6 +19046,24 @@
 			)
 		)
 		(property "Populate" "yes"
+			(at 68.58 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "KOA SPEER"
+			(at 68.58 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RK73H2ATTD3301F"
 			(at 68.58 86.36 0)
 			(effects
 				(font
@@ -19162,6 +19396,24 @@
 			)
 		)
 		(property "Populate" "yes"
+			(at 152.4 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung"
+			(at 152.4 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL21B105KAFNNNE"
 			(at 152.4 187.96 0)
 			(effects
 				(font
