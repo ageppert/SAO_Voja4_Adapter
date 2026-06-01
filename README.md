@@ -8,4 +8,6 @@ Follow this project at: https://hackaday.io/project/198394-sao-adapter-for-voja4
 
 Hardware Version 1.0 Prototype
 
+<img src="Images/SAO VOJA4 Adapter with SAO OLED Demo.jpg " height="500">
+
 <img src="Images/SAO VOJA4 ADAPTER V1 Render Front.png" height="250">
